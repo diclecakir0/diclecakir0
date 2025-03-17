@@ -15,5 +15,5 @@ I'm a React frontend developer focused on building modern, user-friendly, and hi
 
 ## Contact
 Feel free to reach out for projects or collaboration:
-- [Email]:(diclecakir0@gmail.com)
-- [LinkedIn]:(https://linkedin.com/in/dicle-çakir-41a97b270)
+- [Email](mailto:diclecakir0@gmail.com)
+- [LinkedIn](https://linkedin.com/in/dicle-çakir-41a97b270)
